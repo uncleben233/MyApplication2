@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="inp">温度转换器</string>
+    <string name="btn">请输入摄氏度</string>
+    <string name="rlt">转化华摄氏度</string>
+    <string name="out">等待输入</string>
+</resources>
